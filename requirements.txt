@@ -1,2 +1,5 @@
 discord.py
+python-dotenv==1.0.1
 flask
+pymongo
+dnspython
